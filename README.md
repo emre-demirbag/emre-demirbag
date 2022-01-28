@@ -1,4 +1,3 @@
-"# emre-demirbag" 
 ## Hey!
 
 
