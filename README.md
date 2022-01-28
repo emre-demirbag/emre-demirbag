@@ -7,4 +7,4 @@
 [![Visits Badge](https://badges.pufler.dev/visits/emre-demirbag/emre-demirbag?style=for-the-badge)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/emre-demirbag?style=for-the-badge)](https://badges.pufler.dev)
 
-
+![80s90s](https://user-images.githubusercontent.com/77526623/151553389-450d7579-e8ee-42df-a19f-cfdab43d1ea2.jpg)
