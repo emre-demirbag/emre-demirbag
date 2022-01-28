@@ -1,4 +1,7 @@
-## Hey!
+### Hi there 👋
+
+ I'm Emre from Turkey, and I do content on Desing and Development. 
+ 🔭🌍📚👨🏽‍💻
 
 [<img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/emredemirbag/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/emredemirbag/)
