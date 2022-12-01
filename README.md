@@ -1,6 +1,8 @@
 ### Hi there 👋
 
- I'm Emre from Turkey, and I do content on Desing and Development. 
+ I'm Emre from Turkey, and I do content on Software Desing and Software Development. 
+ 
+ Full Stack Engineer | JS, React, Node | C, C++, Perl, Python, Java, Ruby, Golang | Open Source, GNU/Linux, Git
  
 
 [<img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/emredemirbag/)
