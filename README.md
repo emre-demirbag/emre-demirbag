@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm Emre from Turkey, and I do content on Software Desing and Software Development. 
+ I'm Emre, I do content on Software Desing and Software Development. 
  
  Full Stack Engineer | JS, React, Node | C, C++, Perl, Python, Java, Ruby, Golang | Open Source, GNU/Linux, Git
  
