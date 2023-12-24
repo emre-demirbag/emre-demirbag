@@ -1,8 +1,10 @@
 ### Hi there 👋
 
- I'm Emre, I do content on Software Desing and Software Development. 
- 
- Full Stack Engineer | JS, React, Node | C, C++, Perl, Python, Java, Ruby, Golang | Open Source, GNU/Linux, Git
+I'm Emre, a professional focused on Software Design and Development.
+
+I possess expertise as a Full Stack Engineer with proficiency in JS, React, Node, and a versatile skill set encompassing C, C++, Perl, Python, Java, Ruby, and Golang. My commitment extends to contributing to the Open Source community, navigating GNU/Linux, and mastering Git.
+
+Let's collaborate to transform visionary ideas into resilient and efficient software solutions!
  
 
 [<img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/emredemirbag/)
