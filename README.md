@@ -1,14 +1,14 @@
 ### Hi there 👋🏽
 
-My name is Emre, and I specialize in Software Design and Development. I bring extensive experience in developing robust and scalable software solutions. My technical expertise includes proficiency in JavaScript, React, Node.js, as well as a diverse range of programming languages such as C, C++, Perl, Python, Java, Ruby, and Golang.
+I am Emre, a Software Engineer and Researcher specializing in Scientific Computing, Artificial Intelligence, Machine Learning, and Deep Learning. With a strong foundation in algorithm design and numerical methods, I develop high-performance computing solutions for complex scientific and engineering problems.
 
-I am deeply committed to contributing to the Open Source community, have strong skills in navigating GNU/Linux environments, and am well-versed in version control systems like Git.
+My technical expertise spans MATLAB, C, C++, Python, Perl, Java, Ruby, and Golang, with extensive experience in AI-driven modeling, data analysis, and optimization. I am proficient in GNU/Linux environments and version control systems like Git, ensuring efficient and reproducible research workflows.
 
-Let's work together to turn your innovative ideas into reliable and high-performance software solutions.
+Passionate about Open Source and interdisciplinary collaboration, I focus on advancing computational science and AI-driven innovation.
  
 
-[<img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white%22" />](https://twitter.com/emredemirbag/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/emredemirbag/)
+[<img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white%22" />](https://x.com/emredemirbag/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/emre.sci.ai/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://linkedin.com/in/emredemirbag/)
 [<img src ="https://img.shields.io/badge/Website-ed-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://emre-demirbag.github.io/)
 
