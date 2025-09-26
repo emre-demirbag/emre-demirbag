@@ -1,5 +1,4 @@
-🚀 Founder & CTO @ Kodtag
-AI • Go • Python • Rust
+🚀 Founder & CTO @ Kodtag™ AI • Go • Python • Rust
  
 
 [<img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white%22" />](https://x.com/emredemirbag/)
